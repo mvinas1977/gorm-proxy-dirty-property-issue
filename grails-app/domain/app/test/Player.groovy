@@ -1,7 +1,6 @@
 package app.test
 
 import grails.databinding.BindUsing
-import grails.databinding.DataBindingSource
 import grails.databinding.SimpleMapDataBindingSource
 
 class Player {
